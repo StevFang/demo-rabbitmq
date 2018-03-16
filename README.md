@@ -1,0 +1,2 @@
+# rabbitmq
+spring boot rabbitmq
